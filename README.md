@@ -1,4 +1,4 @@
-# arinaleow.github.io
+# 
 cincin
 <!DOCTYPE html>
 <html lang="en">
@@ -67,7 +67,7 @@ have my ears and my warmth on your defeated, beaten hours
 will you have me again sayang  
 when my heart is beating your name
     </div>
-    <footer>— a poem by Arina</footer>
+    <footer>— buat penaung bidara </footer>
   </div>
 
   <!-- Hidden YouTube autoplay of "Cincin" by Hindia -->
