@@ -53,7 +53,7 @@ cincin
     <h1>6000 Years</h1>
     <div class="poem">
 i was promised of your heart 6000 years ago  
-and you were promised of my gentle soul of the same years ago  
+and you were promised of my soul of the same years ago  
 what are the odds that 4 years later after leaving a place of heartbreak  
 i will meet someone that makes my heart  
 you sound familiar in the most specific ways  
