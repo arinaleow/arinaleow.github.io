@@ -3,14 +3,14 @@ cincin
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>3000 Years</title>
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;1,500&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;1,600&display=swap" rel="stylesheet">
   <style>
     body {
       font-family: 'Playfair Display', serif;
-      background: #fef9f5;
+      background-color: #fdfaf7;
       color: #2e2e2e;
       margin: 0;
       padding: 0;
@@ -21,46 +21,31 @@ cincin
     }
 
     .container {
-      max-width: 680px;
+      max-width: 700px;
       padding: 40px;
-      background: #fff;
-      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+      background-color: #ffffff;
       border-radius: 12px;
-      text-align: left;
-      line-height: 1.9;
-      box-sizing: border-box;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+      line-height: 1.8;
+      white-space: pre-wrap;
     }
 
     h1 {
-      font-size: 30px;
-      font-weight: 500;
       text-align: center;
+      font-style: italic;
       margin-bottom: 30px;
-      font-style: italic;
-    }
-
-    .poem {
-      white-space: pre-wrap;
-      font-size: 18px;
-    }
-
-    footer {
-      text-align: center;
-      margin-top: 40px;
-      font-size: 14px;
-      color: #999;
-      font-style: italic;
     }
 
     .audio-player {
-      display: none; /* Hide video */
+      display: none;
     }
 
-    @media (max-width: 768px) {
-      .container {
-        margin: 20px;
-        padding: 30px;
-      }
+    footer {
+      margin-top: 40px;
+      font-size: 14px;
+      text-align: center;
+      font-style: italic;
+      color: #888;
     }
   </style>
 </head>
@@ -80,7 +65,16 @@ if you weren’t meant for me to be in love with in the words of a pious
 Will you at least have my arms and poems on your worst days  
 have my ears and my warmth on your defeated, beaten hours  
 will you have me again sayang  
-when my heart is beating your name  
+when my heart is beating your name
     </div>
-    <footer>— a poem by you</footer>
-  </div
+    <footer>— a poem by Arina</footer>
+  </div>
+
+  <!-- Hidden YouTube autoplay of "Cincin" by Hindia -->
+  <div class="audio-player">
+    <iframe width="0" height="0" src="https://www.youtube.com/embed/S0Kez6MERGE?autoplay=1&loop=1&playlist=S0Kez6MERGE" 
+    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </div>
+</body>
+</html>
+
